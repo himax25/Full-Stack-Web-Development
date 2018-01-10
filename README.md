@@ -15,6 +15,8 @@ Project Movie Trailer Website
 This project consists of 3 files; **_entertainment_center.py_, _media.py_,** and **_fresh_tomatoes.py_**.
 These 3 files should be located in the same folder to execute entertainment_center.py file.
 
+## **Screenshot of the mobie website**
+![screenshut](https://github.com/himax25/Full-Stack-Web-Project-1-1/blob/master/Screenshot_for_Movie_Trailer_Website.JPG)
 ## **Auther of this coding**
 * Hyo Lee, linkedin [here](https://www.linkedin.com/in/hyo-max-lee-61241b13/)
 * January 11, 2018.
