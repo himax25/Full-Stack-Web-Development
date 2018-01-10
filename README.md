@@ -17,6 +17,6 @@ These 3 files should be located in the same folder to execute entertainment_cent
 
 ## **Screenshot of the Movie trailer website**
 ![screenshut](https://github.com/himax25/Full-Stack-Web-Project-1-1/blob/master/Screenshot_for_Movie_Trailer_Website.JPG)
-## **Auther of this coding**
+## **Author of this coding**
 * Hyo Lee, linkedin [here](https://www.linkedin.com/in/hyo-max-lee-61241b13/)
 * January 11, 2018.
