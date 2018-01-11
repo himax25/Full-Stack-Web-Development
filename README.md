@@ -1,4 +1,6 @@
 # Full-Stack-Web-Development
+This is a simple movie trailer website project which consists of 6 SF movies on the webpage; Avatar, Gravity, Interstellar, The Martian, Valerian, and Star Wars 8. You can enjoy any pop-up tiny-windows' youtube trailer for these 6 SF movies by click on the poster on the website.
+
 ## **The name of Project**
 Project Movie Trailer Website
 
